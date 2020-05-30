@@ -18,6 +18,7 @@ SysForm
 2. Move yourself to the appropriate directory: `cd SysForm`
 3. Open this project in Visual Studio
 4. Run `execut the file`
+5. Done
 
 ## How to contribute
 
